@@ -1,0 +1,6 @@
+# Project exclude paths
+/yibai-base-common/yibai-base-eureka/target/
+/yibai-base-common/yibai-base-zuul/target/
+/yibai-service-api/yibai-service-api-entity/target/
+/yibai-service-api/yibai-service-api-member/target/
+/yibai-service-api/yibai-service-api-weixin/target/
